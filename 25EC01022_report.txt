@@ -1,0 +1,110 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'D1:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'J1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical'.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net GND.
+Connected C1 pin 2 to GND.
+Add net +5V.
+Connected C1 pin 1 to +5V.
+Updated C1 unit metadata.
+Added D1 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D3.0mm to LED.
+Updated D1 symbol association from  to /af919485-2c87-423d-9f27-6e5eff66811c.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D1 pin 1 to GND.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Updated D1 unit metadata.
+Added J1 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to 5V_IN.
+Updated J1 symbol association from  to /c2034d66-e218-4c6c-ac82-bc3348f6500e.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated J1 footprint filters to 'TerminalBlock*:*'.
+Connected J1 pin 2 to +5V.
+Connected J1 pin 1 to GND.
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x04_P2.54mm_Vertical to TEST.
+Updated J2 symbol association from  to /043617f8-3e22-4d96-9036-47ed537ebb08.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 4 to GND.
+Add net /VOUT.
+Connected J2 pin 3 to /VOUT.
+Add net /POT_W.
+Connected J2 pin 1 to /POT_W.
+Add net /VIN.
+Connected J2 pin 2 to /VIN.
+Updated J2 unit metadata.
+Added C1 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm').
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-92_Inline to 2N7000.
+Updated Q1 symbol association from  to /a4bfe317-ca25-4c78-9c90-d14a3ffb263f.
+Updated Q1 fields.
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated Q1 footprint filters to 'TO?92*'.
+Connected Q1 pin 3 to /VOUT.
+Connected Q1 pin 1 to GND.
+Connected Q1 pin 2 to /VIN.
+Updated Q1 unit metadata.
+Changed REF** reference designator to C1.
+Added Q2 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q2.
+Changed Q2 value from TO-92_Inline to BS250.
+Updated Q2 symbol association from  to /e7607618-111d-4071-bf6f-dc1293355546.
+Updated Q2 fields.
+Updated Q2 sheetname to '/'.
+Updated Q2 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated Q2 footprint filters to 'TO?92*'.
+Connected Q2 pin 3 to +5V.
+Connected Q2 pin 1 to /VOUT.
+Connected Q2 pin 2 to /VIN.
+Updated Q2 unit metadata.
+Changed C1 value from C_Disc_D5.0mm_W2.5mm_P5.00mm to 100nF.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 1k.
+Updated R1 symbol association from  to /0392c19a-f11d-4230-8021-38c3e9b6b7f2.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to /VOUT.
+Connected R1 pin 2 to Net-(D1-A).
+Updated R1 unit metadata.
+Updated C1 symbol association from  to /3323b14f-8505-45fe-8965-85fa15b9d9b9.
+Added RV1 (footprint 'Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_Bourns_3386P_Vertical to 10k.
+Updated RV1 symbol association from  to /bd26772e-d4bc-46bb-af59-0ae6824e8882.
+Updated RV1 fields.
+Updated RV1 sheetname to '/'.
+Updated RV1 sheetfile to '25EC01022_INV.kicad_sch'.
+Updated RV1 footprint filters to 'Potentiometer*'.
+Connected RV1 pin 2 to /POT_W.
+Connected RV1 pin 1 to +5V.
+Connected RV1 pin 3 to GND.
+Updated RV1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
